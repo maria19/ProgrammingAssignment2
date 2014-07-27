@@ -1,5 +1,3 @@
-## Put comments here that give an overall description of what your
-## functions do
 
 ## Function 1: sets a function where you can get the value of a matrix or set another value, 
 ## so that later can be done it's inverse and get stored on the cache.
